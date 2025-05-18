@@ -1,0 +1,8 @@
+[package]
+name = "mfc"
+description = "MindFuck Language Compiler"
+version = "0.0.1"
+edition = "2024"
+
+[dependencies]
+ceasa = "0.1.1"
